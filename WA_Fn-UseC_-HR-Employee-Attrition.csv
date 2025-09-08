@@ -1,0 +1,37 @@
+﻿EmployeeCount,Gender,JobRole,OverTime
+1,Female,Healthcare Representative,No
+1,Female,Healthcare Representative,Yes
+1,Female,Human Resources,No
+1,Female,Human Resources,Yes
+1,Female,Laboratory Technician,No
+1,Female,Laboratory Technician,Yes
+1,Female,Manager,No
+1,Female,Manager,Yes
+1,Female,Manufacturing Director,No
+1,Female,Manufacturing Director,Yes
+1,Female,Research Director,No
+1,Female,Research Director,Yes
+1,Female,Research Scientist,No
+1,Female,Research Scientist,Yes
+1,Female,Sales Executive,No
+1,Female,Sales Executive,Yes
+1,Female,Sales Representative,No
+1,Female,Sales Representative,Yes
+1,Male,Healthcare Representative,No
+1,Male,Healthcare Representative,Yes
+1,Male,Human Resources,No
+1,Male,Human Resources,Yes
+1,Male,Laboratory Technician,No
+1,Male,Laboratory Technician,Yes
+1,Male,Manager,No
+1,Male,Manager,Yes
+1,Male,Manufacturing Director,No
+1,Male,Manufacturing Director,Yes
+1,Male,Research Director,No
+1,Male,Research Director,Yes
+1,Male,Research Scientist,No
+1,Male,Research Scientist,Yes
+1,Male,Sales Executive,No
+1,Male,Sales Executive,Yes
+1,Male,Sales Representative,No
+1,Male,Sales Representative,Yes
